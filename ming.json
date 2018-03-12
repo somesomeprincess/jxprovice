@@ -1,0 +1,16 @@
+{
+    "Home":{
+        "Popup":"a.pop_close.fr",
+        "Popup_window":"div.pop_content",
+        "Register":"li.Hjianju > input[name='Submit2']"
+    },"Register":{
+        "Identity":"span#tab_login03",
+        "Agree_zhuanjia":"input#agreezhuanjia",
+        "zhuangjia_next":"input#nextStep1",
+        "zhname":"input#zhname",
+        "email":"input#zhname",
+        "mobile":"input#mobile",
+        "org":"input#org",
+        "submitbtn":"input#submitbtn"
+    }
+}
